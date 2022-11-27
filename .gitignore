@@ -1,0 +1,17 @@
+# CMake
+CMakeFiles/
+CMakeCache.txt
+_deps/
+**.cmake
+build/
+bin/
+lib/
+!src/lib
+Makefile
+
+# Bazel
+Testing/
+bazel-*
+
+# VS Code
+.vscode/
