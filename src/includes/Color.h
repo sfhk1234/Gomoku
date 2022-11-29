@@ -1,6 +1,6 @@
 #pragma once
 
 enum Color {
-  black,
-  white
+  BLACK,
+  WHITE,
 };

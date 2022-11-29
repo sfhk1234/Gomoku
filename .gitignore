@@ -8,6 +8,7 @@ bin/
 lib/
 !src/lib
 Makefile
+**.a
 
 # Bazel
 Testing/
@@ -15,3 +16,7 @@ bazel-*
 
 # VS Code
 .vscode/
+
+# Executable
+main
+run_tests
